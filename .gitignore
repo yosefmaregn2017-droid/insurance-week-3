@@ -3,4 +3,4 @@ __pycache__/
 .env
 *.pyc
 .ipynb_checkpoints/
-data/
+# data/  (disabled for DVC tracking)
